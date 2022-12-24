@@ -1,0 +1,73 @@
+.contactCard {
+    height: 2in;
+    width: 4in;
+    background-color: #002121;
+    border-radius: 0.1in;
+    position: fixed;
+}
+
+.punchHole {
+    height: 0.2in;
+    width: 0.2in;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-left: 0.05in;
+    margin-top: 0.05in;
+    position: absolute;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+.logo {
+    height: 0.5in;
+    width: 0.5in;
+    border-radius: 50%;
+    background-color: red;
+    margin-top: 0.2in;
+    margin-left: 0.2in;
+    position: relative;
+}
+
+.proprietor {
+    height: 0.5in;
+    width: 2in;
+    background-color: #0000;
+    position: absolute;
+    top: 0.1in;
+    right: 0.1in;
+    color: #fff;
+    direction: rtl;
+}
+
+.company {
+    height: 0.5in;
+    width: 4in;
+    background-color: #0000;
+    position: absolute;
+    top: 0.8in;
+    color: #0fff;
+    font-size: 40px;
+    text-align: center;
+}
+
+.divider {
+    height: 0.05in;
+    width: 4in;
+    background-color: #fff;
+    position: absolute;
+    top: 1.30in;
+
+}
+
+.address {
+    width: 4in;
+    height: 0.5in;
+    background-color: #0000;
+    position: absolute;
+    top: 1.40in;
+    font-size: 9px;
+    color: #ffff;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
