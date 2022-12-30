@@ -26,6 +26,8 @@
     margin-top: 0.2in;
     margin-left: 0.2in;
     position: relative;
+    content:url(https://uxwing.com/wp-content/themes/uxwing/download/computers-mobile-hardware/computer-icon.svg);
+    /*this is logo design got from internet*/
 }
 
 .proprietor {
